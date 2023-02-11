@@ -4,10 +4,10 @@
     "slug": "todo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon.jpg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/todo-done.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
